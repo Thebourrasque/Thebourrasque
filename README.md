@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security/computer science
 - 🌱 I’m currently learning in python3
 - 💞️ I’m looking to collaborate on C/C++
-- 📫 How to reach me ...
+- 📫 How to reach me? by my webpage
 
 <!---
 Thebourrasque/Thebourrasque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
